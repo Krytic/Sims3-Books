@@ -27,7 +27,7 @@
  * 
  * License
  * =======
- * This project is licensed under the MIT license.
+ * This project is licensed under the GPL license. Earlier commits referenced the MIT license. THIS WAS AN ERROR.
  * 
  * Changelog 
  * =========
